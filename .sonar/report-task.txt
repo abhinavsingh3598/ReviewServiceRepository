@@ -1,0 +1,6 @@
+projectKey=restaurantsearchservices
+serverUrl=http://localhost:4500
+serverVersion=7.1.0.11001
+dashboardUrl=http://localhost:4500/dashboard/index/restaurantsearchservices
+ceTaskId=AXYkkxN1XfPvOyFX5uNP
+ceTaskUrl=http://localhost:4500/api/ce/task?id=AXYkkxN1XfPvOyFX5uNP
